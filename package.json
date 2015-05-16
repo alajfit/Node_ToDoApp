@@ -1,0 +1,19 @@
+{
+  "name": "Node_ToDoApp",
+  "version": "1.0.0",
+  "description": "To Do app built purely in Angular on the back of NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alajfit/Node_ToDoApp.git"
+  },
+  "author": "Alan J. Fitzpatrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alajfit/Node_ToDoApp/issues"
+  },
+  "homepage": "https://github.com/alajfit/Node_ToDoApp"
+}
